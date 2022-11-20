@@ -1,0 +1,19 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "percobaan node npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "hello": "echo \"Hello\""
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "kanzakiJun",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "static_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
